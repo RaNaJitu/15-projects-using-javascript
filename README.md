@@ -1,2 +1,2 @@
 # 15-JavaScript-Projects
-### hgfghg
+#### Build 15 JavaScript Projects - Vanilla JavaScript
